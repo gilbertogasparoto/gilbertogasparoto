@@ -1,6 +1,6 @@
 ### Olá, eu sou o Gilberto 👋
 
-- 🔭 Desenvolvedor Web Fullstack no <a href="https://app.inpera.com.br/delivery/inperadelivery">Inpera Delivery</a>
+- 🔭 Desenvolvedor Web Front-End
 - 📖 Cursando Tecnologia da Informação na UNIVESP
 
 #
